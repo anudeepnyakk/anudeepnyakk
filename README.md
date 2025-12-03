@@ -34,7 +34,7 @@ I don't just run notebooks; I build deployable software.
 
 * **Engineering > Prompting:** I care about the runtime environment, not just the prompt.
 * **Ship to Users:** If it only runs on localhost, it doesn't count.
-* **Measurement:** "It feels fast" is not a metric. **<200ms** is a metric.
+* **Frontier capabilities:** "The magic is in the frontier.
 
 ---
 
